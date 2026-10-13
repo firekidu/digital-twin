@@ -1,0 +1,21 @@
+{
+    "full_name": "David Thomas",
+    "name": "Dejavu",
+    "current_role": "AI product designer",
+    "location": "London",
+    "email": "inferagenix@gmail.com",
+    "linkedin": "linkedin.com/in/yourprofile",
+    "specialties": [
+      "AI product designer",
+      "AI solution architect",
+      "AI forward deployment engineer"
+    ],
+    "years_experience": 19,
+    "education": [
+      {
+        "degree": "Electronic Engineering",
+        "institution": "Anna University",
+        "year": "2007"
+      }
+    ]
+  }

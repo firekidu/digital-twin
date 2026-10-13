@@ -1,0 +1,6 @@
+I am a AI product designer with 2 of experience in Telecommunication. 
+My expertise includes Telecom, network design, AI, LLM, langrapg, langfuse, qdrant, postgres, mem0.
+
+Currently, I'm focused on AI projects.
+
+My background includes AI product design and telecommunications.
