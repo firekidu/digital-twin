@@ -62,6 +62,7 @@ jobs:
           ./scripts/destroy.sh ${{ github.event.inputs.environment }}
         env:
           AWS_ROLE_ARN: ${{ secrets.AWS_ROLE_ARN }}
+          TF_VAR_openai_api_key: ${{ secrets.OPENAI_API_KEY }}
 
       - name: Destruction Complete
         run: |
